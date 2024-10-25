@@ -46,6 +46,8 @@ COUT=(A&B) | (CIN&(A^B))
 	A Blank Document opens up into which the following source code can be typed down. 
 
 Note : File name should be with HDL Extension
+![Screenshot (13)](https://github.com/user-attachments/assets/f964fa64-feea-4db6-97be-94adbea5a88b)
+
 
 ### a) Verify the Functionality 
 
@@ -55,7 +57,9 @@ Note : File name should be with HDL Extension
 
 •	fa_4bit.v → Top Module for Adding 4-bit Inputs. 
 
-•	fa_4bit_test.v → Test bench 
+•	fa_4bit_test.v → Test bench
+
+![Screenshot (14)](https://github.com/user-attachments/assets/c095fad4-3ee6-42fc-b0a0-e0c47c8067ae)
 
 */Program to design 4 bit adder by instantiating 1 bit Full adder.also add test bench program */
 Developed by: Register Number*/
@@ -89,6 +93,9 @@ or
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
+
+![Screenshot (21)](https://github.com/user-attachments/assets/0e67c53f-4538-4d86-ad4d-d63cb79d4d53)
+
 
 ### Fig 5:cds.lib file Creation
 
