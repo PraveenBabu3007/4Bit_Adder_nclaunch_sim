@@ -84,6 +84,9 @@ or
 
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
+![Screenshot (13)](https://github.com/user-attachments/assets/8ee492fc-3e9a-4dfb-b78d-d7701fdb9464)
+
+
 ### Fig 4:Setting Multi-step simulation
 
 	Select Multiple Step and then select “Create cds.lib File” .
@@ -131,6 +134,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
+![Screenshot (14)](https://github.com/user-attachments/assets/3fe2160a-31ed-420c-81bf-998a0fc86d59)
+
 ### Fig 8: Compiled database in worklib
 
 	After compilation it will come under worklib you can see in right side window
@@ -165,6 +170,9 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
+
+![Screenshot (21)](https://github.com/user-attachments/assets/522ca683-f0bd-4b6d-bba7-1af473e8fac2)
+
 
 ### Fig 10: Design Browser window for simulation
 
