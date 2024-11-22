@@ -103,6 +103,7 @@ Developed by: Register Number*/
 	After this you can see the window like below 
 
 ### Fig 3:Invoke the Cadence Environment
+![Screenshot (31)](https://github.com/user-attachments/assets/f6508f1c-5499-4dba-a5aa-b6b089baebee)
 
 	To Launch Simulation tool 
 
@@ -115,12 +116,14 @@ or
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
 ### Fig 4:Setting Multi-step simulation
+![Screenshot (39)](https://github.com/user-attachments/assets/794be86e-bfc7-40c6-b1b6-7e78d057fccf)
 
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
 
 ### Fig 5:cds.lib file Creation
+![Screenshot (13)](https://github.com/user-attachments/assets/a9319dcb-1fe6-476a-b18c-ae2c531e3cf8)
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
 
@@ -201,6 +204,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Steps for simulation – Run the simulation command with simulator options
 
 ### Fig 10: Design Browser window for simulation
+
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
 
