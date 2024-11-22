@@ -146,9 +146,7 @@ or
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 7: Nclaunch Window
-
-![Screenshot (13)](https://github.com/user-attachments/assets/b43f1db9-7d15-4ff1-b664-20aa962e74f4)
-
+![Screenshot (19)](https://github.com/user-attachments/assets/9399d5d6-515a-4aa6-a722-8d4f6c4484e4)
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -170,7 +168,6 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 8: Compiled database in worklib
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/148f2a59-5e37-4ad2-afd2-db1289db2379)
-
 
 	After compilation it will come under worklib you can see in right side window
 
